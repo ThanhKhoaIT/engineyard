@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'engineyard/version'
 
 Gem::Specification.new do |s|
-  s.name = "engineyard"
+  s.name = "crazy-yard"
   s.version = EY::VERSION
   s.platform = Gem::Platform::RUBY
   s.author = "Engine Yard Cloud Team"
